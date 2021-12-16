@@ -1,5 +1,5 @@
 # JavaScript-week-06
-Week 6 JavaScript Project
+
 This is the project that ends the Javascript portion of the BootCamp.
 It will Create a 52 card deck of cards & Shuffle it. Two players get 26 cards each.
 High card wins as they turn their cards up. They play until one player has no cards. 
